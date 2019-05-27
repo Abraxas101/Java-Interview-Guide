@@ -1,6 +1,6 @@
 > 1 Java基础
 
-> 1.1 [Java基础语法](./eBook/ch1/1.1md)
+> 1.1 [Java基础语法](https://github.com/Abraxas101/Java-Interview-Guide/blob/master/eBook/ch1/1.1.md)
 
 * 面向对象的特征
 * Java中四种修饰符的限制范围
